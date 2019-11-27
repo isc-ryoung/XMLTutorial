@@ -15,4 +15,7 @@
 <item caption="Help">
     <item caption="Index" />
 </item>
+<item caption="About">
+    <item caption="Us" />
+</item>
 </menu>
