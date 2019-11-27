@@ -22,7 +22,7 @@ Storage Default
 </Data>
 <State>AddressState</State>
 <StreamLocation>^CInfo.AddressS</StreamLocation>
-<Type>%Storage.Serial</Type>
+<Type>%Library.CacheSerialState</Type>
 }
 
 }
