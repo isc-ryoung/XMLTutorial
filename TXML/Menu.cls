@@ -1,5 +1,6 @@
 Class TXML.Menu Extends %CSP.Page
 {
+
 ClassMethod OnPage() As %Status
     {
     &html<<html>
