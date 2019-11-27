@@ -2,9 +2,10 @@ Class CInfo.Address Extends (%SerialObject, %XML.Adaptor, %Populate)
 {
 
 Property City As %String(POPSPEC = "City()");
-Property State As %String(POPSPEC = "USState()");
-Property Zip As %String(POPSPEC = "USZip()");
 
+Property State As %String(POPSPEC = "USState()");
+
+Property Zip As %String(POPSPEC = "USZip()");
 
 Storage Default
 {

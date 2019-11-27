@@ -1,8 +1,12 @@
-Class CInfo.Company Extends (%Persistent,%Library.Populate,%XML.Adaptor)
+Class CInfo.Company Extends (%Persistent, %Library.Populate, %XML.Adaptor)
 {
+
 Property Name As %String(POPSPEC = "Company()");
+
 Property Mission As %String(MAXLEN = 200, POPSPEC = "Mission()");
+
 Property Recommendation As %String(VALUELIST = ",Buy,Sell,Hold");
+
 Property PrimaryAddress As CInfo.Address;
 
 Storage Default
