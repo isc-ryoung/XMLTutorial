@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<menu>
+<item caption="File">
+    <item caption="Open" />
+    <item caption="Save" />
+    <item caption="Exit" />
+</item>
+<item caption="Edit">
+    <item caption="Search...">
+        <item caption="Find" />
+        <item caption="Replace" />
+    </item>
+    <item caption="Copy" />
+</item>
+<item caption="Help">
+    <item caption="Index" />
+</item>
+</menu>
