@@ -1,6 +1,9 @@
 Class TXML.Menu Extends %CSP.Page
 {
 
+/// CACHE20181
+/// RY
+
 ClassMethod OnPage() As %Status
     {
     &html<<html>
